@@ -1,6 +1,6 @@
 # Power-BI embeded in a React app
 
-Discover how to use the Power BI component for React and leverage the Power BI embedded analytics Client APIs via [this video tutorial](https://www.youtube.com/watch?v=A5KFY5Jh1Uc
+Discover how to use the Power BI component for React and leverage the Power BI embedded analytics Client APIs via [this video tutorial](https://www.youtube.com/watch?v=A5KFY5Jh1Uc)
 
 ## Run in dev environment
 
